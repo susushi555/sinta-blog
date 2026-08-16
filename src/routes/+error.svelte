@@ -39,7 +39,9 @@
 			class="mx-auto flex max-w-3xl flex-col items-center rounded-3xl border-4 border-cyan-900 bg-white/75 px-6 py-12 text-center text-cyan-950 shadow-xl backdrop-blur-sm md:px-10"
 		>
 			<p class="dotgothic16-regular text-xl md:text-2xl">404 Not Found</p>
-			<h1 class="dotgothic16-regular pt-4 text-4xl md:text-6xl">指定されたページは見つかりません</h1>
+			<h1 class="dotgothic16-regular pt-4 text-4xl md:text-6xl">
+				指定されたページは見つかりません
+			</h1>
 			<p class="pt-6 text-lg leading-relaxed md:text-xl">
 				リンク先が変更されたか、URL が間違っている可能性があります。
 			</p>
