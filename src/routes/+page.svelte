@@ -11,7 +11,7 @@
 		>
 			<div class="flex justify-center md:justify-end">
 				<img
-					src="/ore2.png"
+					src="/ore2.jpg"
 					alt="Sugimoto"
 					class="w-full max-w-md h-auto object-cover rounded-lg shadow-lg"
 				/>
@@ -39,7 +39,6 @@
 				<p>タイムライン：個人史</p>
 				<p>プロジェクト集：私が開発した/しているもの集</p>
 				<p>リンク集：xやGitHubなど私に関連したリンクを集めたページ</p>
-				<p>ブログ：私のブログであるSugimoto Gazzettaのリンク</p>
 			</div>
 		</section>
 

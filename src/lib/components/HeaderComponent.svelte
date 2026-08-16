@@ -70,7 +70,11 @@
 
 <header class="bg-cyan-800 p-4 relative flex items-center justify-center">
 	<div class="text-center w-full">
-		<h1 class="text-5xl md:text-8xl dotgothic16-regular text-white">Sugimotoのポートフォリオ</h1>
+		<a href="/"
+			><h1 class="text-5xl md:text-8xl dotgothic16-header text-white">
+				Sugimotoのポートフォリオ
+			</h1></a
+		>
 	</div>
 	<!-- Hamburger Button -->
 	<button

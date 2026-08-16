@@ -1,1 +1,1 @@
-export const goals = ['自作OSを作る', '規則正しい生活を送る', 'OSS研で活躍する'] as const;
+export const goals = ['自作OSを作る', '規則正しい生活を送る'] as const;

@@ -2,6 +2,7 @@
 	import HeadComponents from '$lib/components/HeadComponents.svelte';
 	import FooterComponents from '$lib/components/FooterComponents.svelte';
 	import HeaderComponent from '$lib/components/HeaderComponent.svelte';
+	import '../../../app.css';
 
 	interface Props {
 		showHead?: boolean;
@@ -18,9 +19,11 @@
 
 <HeaderComponent />
 
-{#if children}
-	{@render children()}
-{/if}
+<div class="dotgothic16-regular">
+	{#if children}
+		{@render children()}
+	{/if}
+</div>
 
 {#if showFooter}
 	<FooterComponents />

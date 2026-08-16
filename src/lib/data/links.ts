@@ -13,16 +13,11 @@ export const links: Link[] = [
   {
     title: 'X(大学垢) (sugimoto(cedar root))',
     url: 'https://twitter.com/sug1m0t0_unk',
-    description: '私の大学用のXアカウントです。',
-  },
-  {
-    title: 'X (サブ垢) (sugimoto)',
-    url: 'https://twitter.com/SanMa3MaSunMa',
-    description: '私のXアカウント2です。ロボティクスや低レイヤーなどの技術系のネタや日常をつぶやきます。',
+    description: '私のXアカウントです。',
   },
   {
     title: 'sugimoto',
-    url: 'https://sinta.fun',
+    url: 'https://sugimoto.fun',
     description: '私の個人サイトです。',
   },
 ]
